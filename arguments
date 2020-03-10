@@ -1,0 +1,6 @@
+#!/bin/bash
+# arguments
+echo "total arguments:$#"
+echo "all arguments values:$@"
+echo "first value:$1"
+echo "second value:$2"

@@ -1,0 +1,9 @@
+#!/bin/bash
+# read user input
+echo "Enter your name:"
+read name
+
+echo "Enter the place:"
+read place
+echo "My name is $name iam from $place"
+

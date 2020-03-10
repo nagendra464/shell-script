@@ -1,0 +1,8 @@
+#!/bin/bash
+# system defined variables
+echo $BASH
+echo $PWD
+
+# user defined variables
+name=nag
+echo $name

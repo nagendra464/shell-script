@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir nag
+touch nag/testt{1..10}.txt
+ls -ltr nag/*
+rm -rf nag/*
+echo "files are deleted"
